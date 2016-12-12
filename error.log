@@ -1,0 +1,32 @@
+[Thu Sep 29 22:21:44.746900 2016] [:error] [pid 10749] [client 52.91.18.42:57707] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Sat Oct 01 05:43:41.692569 2016] [:error] [pid 17423] [client 54.172.1.254:53812] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Sun Oct 02 11:20:43.980084 2016] [:error] [pid 3896] [client 149.202.175.145:57005] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Sun Oct 02 11:22:46.012914 2016] [:error] [pid 3892] [client 149.202.175.145:60788] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Sun Oct 02 13:25:00.336205 2016] [:error] [pid 3714] [client 52.88.88.255:61793] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Fri Oct 07 07:19:45.876060 2016] [:error] [pid 6622] [client 104.200.154.14:49296] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Fri Oct 07 07:19:46.711833 2016] [:error] [pid 5197] [client 104.200.154.14:49353] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Fri Oct 07 07:19:46.917919 2016] [:error] [pid 6622] [client 104.200.154.14:49367] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Fri Oct 07 07:19:47.474783 2016] [:error] [pid 6510] [client 104.200.154.14:49400] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Sat Oct 08 05:20:14.238071 2016] [:error] [pid 14128] [client 149.202.175.145:61961] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Sat Oct 08 05:23:01.188736 2016] [:error] [pid 28968] [client 149.202.175.145:56522] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Mon Oct 10 13:12:37.442293 2016] [:error] [pid 12498] [client 31.131.106.245:62014] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 13:19:09.096040 2016] [:error] [pid 13205] [client 31.131.106.245:64906] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Mon Oct 10 13:32:42.720183 2016] [:error] [pid 13212] [client 95.220.214.0:65443] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 13:34:36.528197 2016] [:error] [pid 11844] [client 95.220.214.0:50023] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Mon Oct 10 13:47:29.445037 2016] [:error] [pid 13212] [client 5.44.173.25:56778] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 13:49:59.722203 2016] [:error] [pid 13214] [client 5.44.173.25:57754] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Mon Oct 10 14:02:32.164436 2016] [:error] [pid 13212] [client 83.217.198.205:1453] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 14:04:53.744046 2016] [:error] [pid 13099] [client 83.217.198.205:2413] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Mon Oct 10 14:15:03.669145 2016] [:error] [pid 11847] [client 77.232.152.116:57427] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 14:20:14.792233 2016] [:error] [pid 13209] [client 77.232.152.116:62403] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat
+[Tue Oct 11 20:24:15.381139 2016] [:error] [pid 23488] [client 47.88.0.90:49864] script '/var/www/averagepriceforawebsite.com/admin_index.php' not found or unable to stat, referer: http://averagepriceforawebsite.com/admin_index.php
+[Tue Oct 11 20:24:17.070854 2016] [:error] [pid 23488] [client 47.88.0.90:49864] script '/var/www/averagepriceforawebsite.com/admin.php' not found or unable to stat, referer: http://averagepriceforawebsite.com/admin.php
+[Tue Oct 11 20:24:18.811276 2016] [:error] [pid 23488] [client 47.88.0.90:49864] script '/var/www/averagepriceforawebsite.com/admin_login.php' not found or unable to stat, referer: http://averagepriceforawebsite.com/admin_login.php
+[Thu Oct 13 06:50:47.489266 2016] [:error] [pid 19602] [client 199.15.233.162:64444] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Thu Oct 13 06:50:47.532002 2016] [:error] [pid 19602] [client 199.15.233.162:64444] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Sun Nov 06 01:05:17.732633 2016] [:error] [pid 17309] [client 93.179.68.167:3372] script '/var/www/averagepriceforawebsite.com/giftcertificates.php' not found or unable to stat, referer: http://AVERAGEPRICEFORAWEBSITE.COM/giftcertificates.php
+[Sun Nov 13 20:10:42.667546 2016] [:error] [pid 9721] [client 222.50.59.50:55135] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Fri Nov 18 06:47:57.050682 2016] [:error] [pid 645] [client 54.187.10.137:62493] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Mon Nov 21 03:27:25.074197 2016] [:error] [pid 13906] [client 52.91.234.184:55053] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Mon Nov 21 19:35:35.204056 2016] [:error] [pid 6691] [client 167.114.142.16:46871] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat
+[Wed Nov 23 01:06:42.219060 2016] [:error] [pid 10447] [client 54.145.114.72:60931] script '/var/www/averagepriceforawebsite.com/wp-login.php' not found or unable to stat

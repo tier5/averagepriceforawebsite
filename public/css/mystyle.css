@@ -1,0 +1,582 @@
+
+@font-face {
+  font-family: 'CaviarDreams';
+  src: url('CaviarDreams.ttf');
+}
+
+.navbar-header {
+    float: none;
+}
+
+.navbar-toggle {
+    display: block;
+}
+
+.navbar-collapse.collapse {
+    display: none !important;
+}
+
+.navbar-collapse.collapse.in {
+    display: block !important;
+  	overflow-y: auto !important;
+}
+
+.navbar-nav {
+    margin: 0;
+    float: none !important; 
+}
+
+.navbar-nav li {
+	float: none;
+}
+
+.navbar-nav li > .dropdown-menu {
+	border: 0;
+	float: none;
+	width: auto;
+	position: static;
+	box-shadow: none;
+	background: inherit;
+}
+
+/* Dropdown Menu (Style design make same as Bootstrap's design. You can customize it how you want.) */
+.navbar-nav li > .dropdown-menu > li > a {
+	color: #777;
+}
+
+.navbar-default {
+    background-color: rgba(248, 248, 248, 0);
+    border-color: rgba(231, 231, 231, 0);
+}
+.navbar-toggle {
+    position: relative;
+    float: left;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.first_click{
+	color:#fff;
+	margin-top:10px;
+    
+}
+.social_share{
+	margin-top: 7px;
+}
+.head_banner{
+    background-color: #053378;
+    padding-bottom: 150px;
+}
+.blue_font{
+	color: #053378;
+	font-size: 35px;
+}
+.text_intro{
+	color: #053378;
+	font-size: 20px;
+
+}
+.intro_page{
+	text-align: center;
+}
+.ques_session{
+	/*background-color: #e4e4e4;*/
+}
+.bottom_section{
+	/*margin-top: 130px;*/
+	margin-bottom:6%;
+}
+#img_ab{
+   margin-top: -144px;
+}
+
+.get_start {
+    margin: 28px 0px;
+}
+
+
+/*CSS OF SECOND PAGE*/
+.ques_link{
+	top:50px;
+}
+
+.ques_links{
+	text-align: center;
+	margin-top: 60px;
+}
+.blue_fot{
+	color: #053378;
+	font-size: 40px;
+}
+.blue_fot a{
+	text-decoration: none;
+	
+
+}
+.text_intr{
+	color: #053378;
+	font-size: 16px;
+	padding-bottom: 16px;
+}
+
+
+
+/*CSS OF FIRST1 PAGE*/
+.budget_area{
+	color: #fff;
+}
+.head_start_up{
+	background-color: #053378;
+    padding-bottom: 50px;
+}
+/*.pages_logo{
+	margin-top: 80px;
+    margin-bottom: 20px;
+}*/
+.pages_logo{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    width: 60%;
+}
+.option_section{
+	background-color: #e4e4e4;
+}
+.ques_head{
+	text-align: center;
+}
+
+}
+.appli_ques h3{
+    font-size: 30px;
+    padding: 50px 0px;
+    color: #053378;
+}
+
+.btn-default {
+    color: #053378;
+    background-color: #fff;
+    border-color: #053378;
+}
+.app_andr{
+	text-align: center;
+	margin-top:30px;
+	/*margin-bottom:30px;*/
+}
+
+
+/*CSS OF FIRST2 PAGE*/
+.app_ques_second h3{
+	font-size: 30px;
+    padding: 25px 0px;
+    color: #053378;
+    text-align: center;
+}
+.app_ques_second p{
+    color: #053378;
+    text-align: center;
+    font-size: 18px;
+}
+.select_option{
+	margin-top: 20px;
+}
+/*BUDGET PAGE CSS*/
+.budget_link{
+	padding-top: 10px;
+}
+.last_click{
+	color:#000;
+}
+.app_ques h3{
+	font-size: 30px;
+    padding: 50px 0px;
+    color: #053378;
+    text-align: center;
+}
+.message_box{
+	border: 1px solid rgb(92, 92, 92);
+	border-radius: 15px;
+	width: 500px;
+	background-color: #fff;
+	text-align: center;
+	padding:35px;
+	margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+/*CSS FOR WEBSITE LINK STARTS*/
+
+.head_start{
+	background-color: #053378;
+}
+.web_startup{
+	margin-top: 5px;
+    width: 60%;
+}
+
+.twitter-share-button{
+	height:17px !important;
+}
+
+/*CSS FOR WEBSITE FIRST 1*/
+.web_click {
+    color: #fff;
+    margin-top: 10px;
+}
+.web_click span {
+    font-size:18px;
+}
+.fa-2x {
+    font-size: 1.5em !important;
+}
+.cost_area {
+    color: #fff;
+    margin-top: 12px;
+}
+.web_start_up{
+    background-color: #053378;
+}
+/*.web_ques_second h3 {
+    font-size: 30px;
+    padding: 25px 0px;
+    color: #053378;
+    text-align: center;
+}*/
+.web_ques_second h3 {
+    font-size: 26px;
+    padding: 10px 0px;
+    color: #053378;
+    text-align: center;
+}
+/*.web_ques_second p {
+    color: #e4e4e4;
+    text-align: center;
+    font-size: 18px;
+}*/
+.web_ques_second p {
+    color: #053378;
+    text-align: center;
+    font-size: 14px;
+}
+.web_section {
+    /*background-color: #053378;*/
+}
+.bottom_section_web {
+    margin-top: 155px;
+    margin-bottom: 70px;
+    color: #fff;
+}
+.bottom_section_web a{
+    color: #fff;
+}
+/*CSS FOR WEBSITE BUDGET*/
+
+.web_last_click {
+    color: #000;
+}
+
+.web_last_click span{
+    font-size:16px;
+}
+
+.web_option_section{
+    /*background-color: #053378;*/
+}
+.web_bottom_section{
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+.web_bottom_section a{
+    color: #fff;
+    
+}
+
+
+
+
+#fb{
+    background-color: #4862A3;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: bold;
+    padding:3px 3px 1px 0px;
+    margin-right: 8px;
+}
+#tw{
+    background-color: #55ACEE;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: bold;
+    padding:3px 3px 0px 0px;
+}
+.a2a_kit a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+/*OPTION PAGE CSS*/
+.first_option{
+    margin-top:30px;
+}
+.first_option h3 {
+    font-size: 30px;
+    padding: 25px 0px;
+    color: #053378;
+    text-align: center;
+    margin-top:40px;
+}
+.first_option p {
+    color: #053378;
+    text-align: center;
+    font-size: 20px;
+    margin-top:40px;
+    margin-bottom:50px;
+}
+.app_para{
+    margin-top:20px;
+}
+.transparent-btn {
+    background: transparent;
+    border: transparent;
+
+}
+.transparent-btn img{
+    width: 120px;
+    height: 120px;
+    /*background-color: #053378;
+    border-radius: 10px;*/
+}
+
+.inside-img img{
+    width: 120px; 
+    height: 120px;
+  -webkit-transition: all 2s ease;
+  -moz-transition: all 2s ease; 
+  -ms-transition: all 2s ease; 
+  transition: all 2s ease;
+}
+ 
+.inside-img img:hover {
+  width: 140px; 
+  height: 140px; 
+  border: none !important;
+}
+
+button:focus
+{
+    outline:none;
+}
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn.focus:active, .btn:active:focus, .btn:focus {
+    outline: medium none !important;
+    outline-offset: -2px;
+}
+.btn-link {
+    font-weight: 400;
+    color: #fff !important;
+    border-radius: 0;
+    margin-top: 10px;
+}
+.btn-link:focus, .btn-link:hover {
+    background-color: transparent !important;
+    color: #fff !important; 
+    text-decoration: none !important;
+}
+#app-price {
+    font-size: 14px !important;
+    text-align: center !important;
+    border: 1px solid #ccc !important;
+    padding: 4px !important;
+    border-radius: 5px !important;
+}
+
+
+
+@media only screen and (max-width:480px){
+.first_click {
+    font-size: 1.5em !important;
+} 
+.navigate-section span{
+  font-size:14px;  
+}
+#fb {
+    background-color: #4862A3;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 3px 3px 1px 0px;
+    margin-right: 8px;
+    font-size: 10px;
+}
+#tw {
+    background-color: #55ACEE;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 3px 3px 0px 0px;
+    font-size: 10px;
+}
+#img_ab {
+    margin-top: -107px;
+    width: 80%;
+}   
+.intro_page img{
+    width: 80%;
+
+}
+.blue_font {
+    color: #053378;
+    font-size: 25px;
+}
+.text_intro {
+    color: #053378;
+    font-size: 15px;
+}
+.blue_fot {
+    color: #053378;
+    font-size: 25px;
+}
+.text_intr {
+    color: #053378;
+    font-size: 13px;
+    padding-bottom: 16px;
+}
+.img-responsive.center-block {
+    width: 80%;
+}
+/*.web_ques_second h3 {
+    font-size: 19px;
+    padding: 25px 1px;
+    color: #053378;
+    text-align: center;
+}*/
+.web_ques_second h3 {
+    font-size: 17px;
+    padding: 5px 1px;
+    color: #053378;
+    text-align: center;
+}
+.select_option {
+    margin-top: 0px;
+}
+.app_andr .col-xs-12{
+    margin-bottom:20px;
+}
+.web_ques_second p {
+    color: #053378;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+}
+/*.web_click span{
+    font-size: 12px;
+}*/
+.bottom_section_web {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #fff;
+}
+.message_box {
+    border: 1px solid rgb(92, 92, 92);
+    border-radius: 15px;
+    width: auto;
+    background-color: #fff;
+    text-align: center;
+    padding: 25px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.message_box h3{
+    font-size: 20px
+} 
+.web_bottom_section {
+    color: #fff;
+    margin-bottom: 10px;
+}
+.budget_area .btn-default{
+    font-size: 9px;
+}
+.app_ques h3 {
+    font-size: 22px;
+    padding: 10px 0px;
+    color: #053378;
+    text-align: center;
+}
+.pages_logo {
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+.bottom_section {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.app_ques_second h3 {
+    font-size: 22px;
+    padding: 15px 5px;
+    color: #053378;
+    text-align: center;
+}
+
+.app_ques_second p {
+    color: #053378;
+    text-align: center;
+    font-size: 13px;
+    padding: 0px 15px;
+}
+.budget_area h4{
+    font-size: 10px;
+}
+
+.pages_logo {
+    margin-top: 80px;
+    margin-bottom: 20px;
+    width: 80%;
+}
+.summary-info span{
+    font-size: 14px
+}
+.summary-info{
+    font-size: 10px
+}
+.btn-link-style {
+    font-size: 14px;
+    color: #fff;
+    margin-top: 10px;
+}
+#app-price {
+    font-size: 10px !important;
+    text-align: center !important;
+    border: 1px solid #ccc !important;
+    padding: 4px !important;
+    border-radius: 5px !important;
+}
+
+
+.web_click span {
+    font-size:15px;
+}
+.fa-2x {
+    font-size: 1.1em !important;
+}
+.app_andr {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10%;
+}
+.transparent-btn {
+    background: transparent;
+    border: transparent;
+    width:100%;
+}
+.web_last_click span {
+    font-size: 14px;
+}
+
+}
